@@ -1,0 +1,269 @@
+{
+  "name": "Kingdoms TCG",
+  "menuBackgroundImage": "https://i.postimg.cc/0NvgPhK9/Kingdoms-ks-Logo.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://steamusercontent-a.akamaihd.net/ugc/12493146452886138264/29DEBA0F72CFF9329D1490D9E893279BC431FCEC/",
+      "https://steamusercontent-a.akamaihd.net/ugc/11589996011753859845/31D429D63DC905CCA688EFCEBEEE2C39C29C5D64/",
+      "https://steamusercontent-a.akamaihd.net/ugc/10287444467439411591/05705779B5073CC312103FA77434FBF3120D61CE/",
+      "https://steamusercontent-a.akamaihd.net/ugc/15122749393259604143/7D5C770541C0F0DF3405036A5B4BB76D283109D1/",
+      "https://steamusercontent-a.akamaihd.net/ugc/11285110258445022375/5E13654BA61915B12ED533AC54BC4DEAF454CC02/",
+      "https://steamusercontent-a.akamaihd.net/ugc/13369360139105458349/A461ED5E9BA8687B7A45CA23557718EFD4FF2069/"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/CardList(2).json",
+    "cardBack": "https://steamusercontent-a.akamaihd.net/ugc/17466554852131564566/BBD28E984955677D98E6732506818BE65CDF7402/"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Mythic",
+      "Scroll",
+      "Unit",
+      "Relic",
+      "Terra",
+      "Bastion",
+      "Supply",
+      "Continuous",
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "formats": [
+      {
+        "title": "Eternal",
+        "gameplay": "Eternal",
+        "customCategories": [
+          "Royals",
+          "Bastion"
+        ]
+      },
+      {
+        "title": "Blitz",
+        "gameplay": "Blitz",
+        "customCategories": [
+          "Royals",
+          "Bastion"
+        ]
+      },
+      {
+        "title": "Tag-Team",
+        "gameplay": "Tag-Team",
+        "customCategories": [
+          "Royals",
+          "Bastion"
+        ]
+      },
+      {
+        "title": "Free-For-All",
+        "gameplay": "Free-For-All",
+        "customCategories": [
+          "Royals",
+          "Bastion"
+        ]
+      }
+    ]
+  },
+  "gameplay": {
+    "Kingdoms-Gameplay-Data": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "5",
+        "drawNewHand": true,
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "First",
+        "drawPerTurn": "2"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Terra",
+          "Front-line",
+          "Bastion",
+          "Throne Room Zone 1",
+          "Throne Room Zone 2",
+          "Terra",
+          "Kingdom"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Front-line",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Throne Room Zone 1",
+                      "style": false
+                    },
+                    {
+                      "section": "Throne Room Zone 2",
+                      "style": false
+                    },
+                    {
+                      "section": "Bastion",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "section": "Kingdom",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Kingdom",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "section": "Terra",
+              "style": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Main Deck",
+          "Terra Deck"
+        ],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Terra": {
+            "title": "Terra",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Terra",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Kingdom": {
+            "title": "Kingdom",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Throne_Roome_Zone_1": {
+            "title": "Throne_Roome_Zone_1",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Throne_Roome_Zone_2": {
+            "title": "Throne_Roome_Zone_2",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Bastion": {
+            "title": "Bastion",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Front_line": {
+            "title": "Front_line",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
