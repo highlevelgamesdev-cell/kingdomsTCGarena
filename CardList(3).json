@@ -1,0 +1,308 @@
+{
+  "1": {
+    "id": "1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aires, Lord of Battle",
+        "type": "Lord",
+        "cost": "3",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/9773570845945525113/33CB8B75064400582B62BCF349641CC1C9110D0E/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aires Lord of Battle",
+    "type": "Lord",
+    "cost": "3",
+    "Mythic": true
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stack Lhumbar",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/13243837741775276228/64AB3DD96E9C83F77BBD686D4DD2BE5ACE798C96/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stack Lhumbar",
+    "type": "Unit",
+    "cost": "3",
+    "Mythic": true
+  },
+  "3": {
+    "id": "3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lillia, Saint of Vitality",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/15048575320567466273/D463879C6EC043FB43B9E3E8BF540D4CF49DA503/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lillia, Saint of Vitality",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": true
+  },
+  "4": {
+    "id": "4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Valtruess, Peircing Eye of the Storm",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/16802276935641357789/9BC82A10093C2F33B7FCAA298DFF0116FB5CACEE/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Valtruess, Peircing Eye of the Storm",
+    "type": "Unit",
+    "cost": "5",
+    "Mythic": true
+  },
+  "5": {
+    "id": "5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dauz, Aceus Forgemaster",
+        "type": "Lord",
+        "cost": "3",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/13102406398479808848/6FC796D3403DD3A942737C64A3261C8F5274749E/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dauz, Aceus Forgemaster",
+    "type": "Lord",
+    "cost": "3",
+    "Mythic": true
+  },
+  "6": {
+    "id": "6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drez, the Druid Warrior",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/9838460979398983042/EFABA445E3353BDA8FED100AD4DEA6A1B4DE6FF3/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drez, the Druid Warrior",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": true
+  },
+  "7": {
+    "id": "7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heath, the Prideful",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/12327068083507299023/4A0696E98D8D7A47A840CE73A1BFC5818D3A5D53/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heath, the Prideful",
+    "type": "Unit",
+    "cost": "4",
+    "Mythic": true
+  },
+  "8": {
+    "id": "8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zjar, Master Pyromancer",
+        "type": "Lord",
+        "cost": "3",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/9278850053560956806/E9C243259D52DB366BC6BE8F5CECBEF94FE7725C/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zjar, Master Pyromancer",
+    "type": "Lord",
+    "cost": "3",
+    "Mythic": true
+  },
+  "9": {
+    "id": "9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wisp & Willow, the Raging Flame",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/13913196227978343767/07CFBBD7500062356DCCD58D315F2097EAA7FF5B/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wisp & Willow, the Raging Flame",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": true
+  },
+  "10": {
+    "id": "10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wisp & Willow, the Twin Flame",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/16980517325522263091/723A83A59E447668D3567D593CA904639B2772C4/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wisp & Willow, the Twin Flame",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": true
+  },
+  "11": {
+    "id": "11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lord Xavi, Master of the Council",
+        "type": "Lord",
+        "cost": "2",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/10093064043844076271/CE6071A67BE5AB4B427B22217D188BA80A2E791A/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lord Xavi, Master of the Council",
+    "type": "Lord",
+    "cost": "2",
+    "Mythic": true
+  },
+  "12": {
+    "id": "12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Argon, the Telekinetic",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/15810330156437370931/1D1F64C1AA0CA1EA5D6F6AAD7C1DC604C7469434/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Argon, the Telekinetic",
+    "type": "Unit",
+    "cost": "3",
+    "Mythic": true
+  },
+  "13": {
+    "id": "13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Helga the Bog Witch",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/9866521968748947198/6B3A255D3A70D75114FF4F7DF119435A22B940FE/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Helga the Bog Witch",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": true
+  },
+  "14": {
+    "id": "14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Avren the Spell-Sword",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/10477828903129628266/56E01CE9A7329A1908D71E0ED098A92993B0D563/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Avren the Spell-Sword",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": true
+  },
+  "15": {
+    "id": "15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Riding Rogue",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/10495809961411206014/F739B7AB92E74E368BE8006D1C2A1B0EA0952B73/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Riding Rogue",
+    "type": "Unit",
+    "cost": "3",
+    "Mythic": true
+  },
+  "16": {
+    "id": "16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kh'lip, the \"Golbin\" King",
+        "type": "Lord",
+        "cost": "3",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/14458607092008747988/ED261F9DB75FF15A6BF3AC304F864AD19BAF72EF/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kh'lip, the \"Golbin\" King",
+    "type": "Lord",
+    "cost": "3",
+    "Mythic": true
+  },
+  "17": {
+    "id": "17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The King of Thieves",
+        "type": "Lord",
+        "cost": "3",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/11067878832473824516/F9BCAFA6BC0403D6FCF5E98CA16A319C543E811F/",
+        "isHorizontal": false
+      }
+    },
+    "name": "The King of Thieves",
+    "type": "Lord",
+    "cost": "3",
+    "Mythic": true
+  },
+  "18": {
+    "id": "18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jack Wolf-Man the Tame",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/16937527855315805246/7034B1FD3BB31E736EE3A00055D45C4CDA692B91/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jack Wolf-Man the Tame",
+    "type": "Unit",
+    "cost": "4",
+    "Mythic": true
+  }
+}
