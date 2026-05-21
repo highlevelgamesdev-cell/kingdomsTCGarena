@@ -35,7 +35,7 @@
     "formats": [
       {
         "title": "Eternal",
-        "gameplay": "King_",
+        "gameplay": "King",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -43,7 +43,7 @@
       },
       {
         "title": "Blitz",
-        "gameplay": "King_",
+        "gameplay": "King",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -51,7 +51,7 @@
       },
       {
         "title": "Tag-Team",
-        "gameplay": "King_",
+        "gameplay": "King",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -59,7 +59,7 @@
       },
       {
         "title": "Free-For-All",
-        "gameplay": "King_",
+        "gameplay": "King",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -68,7 +68,7 @@
     ]
   },
   "gameplay": {
-    "King_": {
+    "King": {
       "mulligan": {
         "info": "Mulligan",
         "startingHandSize": "5",
@@ -79,7 +79,7 @@
       "newTurn": {
         "drawOnStart": true,
         "sharedTurn": false,
-        "firstPlayerTokenName": "First",
+        "firstPlayerTokenName": "Noble's Mynte",
         "drawPerTurn": "2"
       },
       "defaultNotes": "Dont forget your towel!",
