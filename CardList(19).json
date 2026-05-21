@@ -129,7 +129,7 @@
       }
     },
     "name": "Dauz, Aceus Forgemaster",
-    "type": false,
+    "type": "Unit",
     "cost": "3",
     "Mythic": true,
     "Lord": true,
