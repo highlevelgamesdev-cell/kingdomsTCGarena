@@ -165,12 +165,9 @@
             }
           ]
         },
-        "autoPlayFromHand": {
-          "Terra": "Terra"
-        },
-        "autoPlayFromStack": {
-          "Terra": "Terra"
-        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
         "sectionsDict": {
           "Terra": {
             "title": "Terra",
