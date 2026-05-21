@@ -1,6 +1,6 @@
 {
-  "109": {
-    "id": "109",
+  "KGM 109/116": {
+    "id": "KGM 109/116",
     "isToken": false,
     "face": {
       "front": {
@@ -18,8 +18,8 @@
     "Non-unit": true,
     "Yellow": true
   },
-  "115": {
-    "id": "115",
+  "KGM 115/116": {
+    "id": "KGM 115/116",
     "isToken": false,
     "face": {
       "front": {
@@ -39,8 +39,8 @@
     "Non-unit": true,
     "Yellow": true
   },
-  "002": {
-    "id": "002",
+  "KGM 002/116": {
+    "id": "KGM 002/116",
     "isToken": false,
     "face": {
       "front": {
@@ -59,8 +59,8 @@
     "Unit": true,
     "Yellow": true
   },
-  "007": {
-    "id": "007",
+  "KGM 007/116": {
+    "id": "KGM 007/116",
     "isToken": false,
     "face": {
       "front": {
@@ -78,8 +78,8 @@
     "Unit": true,
     "Yellow": true
   },
-  "006": {
-    "id": "006",
+  "KGM 006/116": {
+    "id": "KGM 006/116",
     "isToken": false,
     "face": {
       "front": {
@@ -97,8 +97,8 @@
     "Yellow": true,
     "Unit": true
   },
-  "009": {
-    "id": "009",
+  "KGM 009/116": {
+    "id": "KGM 009/116",
     "isToken": false,
     "face": {
       "front": {
@@ -116,8 +116,8 @@
     "Unit": true,
     "Yellow": true
   },
-  "003": {
-    "id": "003",
+  "KGM 003/116": {
+    "id": "KGM 003/116",
     "isToken": false,
     "face": {
       "front": {
@@ -136,8 +136,8 @@
     "Unit": true,
     "Yellow": true
   },
-  "004": {
-    "id": "004",
+  "KGM 004/116": {
+    "id": "KGM 004/116",
     "isToken": false,
     "face": {
       "front": {
@@ -155,8 +155,8 @@
     "Yellow": true,
     "Unit": true
   },
-  "005": {
-    "id": "005",
+  "KGM 005/116": {
+    "id": "KGM 005/116",
     "isToken": false,
     "face": {
       "front": {
@@ -174,8 +174,8 @@
     "Yellow": true,
     "Unit": true
   },
-  "027": {
-    "id": "027",
+  "KGM 027/116": {
+    "id": "KGM 027/116",
     "isToken": false,
     "face": {
       "front": {
@@ -194,8 +194,8 @@
     "Unit": true,
     "Blue": true
   },
-  "025": {
-    "id": "025",
+  "KGM 025/116": {
+    "id": "KGM 025/116",
     "isToken": false,
     "face": {
       "front": {
@@ -213,8 +213,8 @@
     "Blue": true,
     "Unit": true
   },
-  "026": {
-    "id": "026",
+  "KGM 026/116": {
+    "id": "KGM 026/116",
     "isToken": false,
     "face": {
       "front": {
@@ -233,8 +233,8 @@
     "Blue": true,
     "Unit": true
   },
-  "022": {
-    "id": "022",
+  "KGM 022/116": {
+    "id": "KGM 022/116",
     "isToken": false,
     "face": {
       "front": {
@@ -253,8 +253,8 @@
     "Unit": true,
     "Blue": true
   },
-  "019": {
-    "id": "019",
+  "KGM 019/116": {
+    "id": "KGM 019/116",
     "isToken": false,
     "face": {
       "front": {
@@ -272,8 +272,8 @@
     "Blue": true,
     "Unit": true
   },
-  "021": {
-    "id": "021",
+  "KGM 021/116": {
+    "id": "KGM 021/116",
     "isToken": false,
     "face": {
       "front": {
@@ -291,8 +291,8 @@
     "Blue": true,
     "Unit": true
   },
-  "020": {
-    "id": "020",
+  "KGM 020/116": {
+    "id": "KGM 020/116",
     "isToken": false,
     "face": {
       "front": {
@@ -310,8 +310,8 @@
     "Blue": true,
     "Unit": true
   },
-  "016": {
-    "id": "016",
+  "KGM 016/116": {
+    "id": "KGM 016/116",
     "isToken": false,
     "face": {
       "front": {
@@ -330,8 +330,8 @@
     "Yellow": false,
     "Red": true
   },
-  "013": {
-    "id": "013",
+  "KGM 013/116": {
+    "id": "KGM 013/116",
     "isToken": false,
     "face": {
       "front": {
@@ -350,8 +350,8 @@
     "Lord": true,
     "Unit": true
   },
-  "014": {
-    "id": "014",
+  "KGM 014/116": {
+    "id": "KGM 014/116",
     "isToken": false,
     "face": {
       "front": {
@@ -370,8 +370,8 @@
     "Lord": true,
     "Unit": true
   },
-  "012": {
-    "id": "012",
+  "KGM 012/116": {
+    "id": "KGM 012/116",
     "isToken": false,
     "face": {
       "front": {
@@ -389,8 +389,8 @@
     "Red": true,
     "Unit": true
   },
-  "001": {
-    "id": "001",
+  "KGM 001/116": {
+    "id": "KGM 001/116",
     "isToken": false,
     "face": {
       "front": {
@@ -408,8 +408,8 @@
     "Yellow": true,
     "Non-unit": true
   },
-  "043": {
-    "id": "043",
+  "KGM 043/116": {
+    "id": "KGM 043/116",
     "isToken": false,
     "face": {
       "front": {
@@ -428,8 +428,8 @@
     "Yellow": true,
     "Non-unit": true
   },
-  "052": {
-    "id": "052",
+  "KGM 052/116": {
+    "id": "KGM 052/116",
     "isToken": false,
     "face": {
       "front": {
@@ -447,8 +447,8 @@
     "Yellow": true,
     "Non-unit": true
   },
-  "044": {
-    "id": "044",
+  "KGM 044/116": {
+    "id": "KGM 044/116",
     "isToken": false,
     "face": {
       "front": {
@@ -466,8 +466,8 @@
     "Yellow": true,
     "Unit": true
   },
-  "045": {
-    "id": "045",
+  "KGM 045/116": {
+    "id": "KGM 045/116",
     "isToken": false,
     "face": {
       "front": {
@@ -485,8 +485,8 @@
     "Yellow": true,
     "Unit": true
   },
-  "048": {
-    "id": "048",
+  "KGM 048/116": {
+    "id": "KGM 048/116",
     "isToken": false,
     "face": {
       "front": {
@@ -502,8 +502,8 @@
     "cost": "1",
     "Mythic": false
   },
-  "046": {
-    "id": "046",
+  "KGM 046/116": {
+    "id": "KGM 046/116",
     "isToken": false,
     "face": {
       "front": {
@@ -521,8 +521,8 @@
     "Unit": true,
     "Yellow": true
   },
-  "047": {
-    "id": "047",
+  "KGM 047/116": {
+    "id": "KGM 047/116",
     "isToken": false,
     "face": {
       "front": {
@@ -540,8 +540,8 @@
     "Unit": true,
     "Yellow": true
   },
-  "049": {
-    "id": "049",
+  "KGM 049/116": {
+    "id": "KGM 049/116",
     "isToken": false,
     "face": {
       "front": {
@@ -560,8 +560,8 @@
     "Yellow": true,
     "Unit": true
   },
-  "051": {
-    "id": "051",
+  "KGM 051/116": {
+    "id": "KGM 051/116",
     "isToken": false,
     "face": {
       "front": {
@@ -580,8 +580,8 @@
     "Yellow": true,
     "Non-unit": true
   },
-  "053": {
-    "id": "053",
+  "KGM 053/116": {
+    "id": "KGM 053/116",
     "isToken": false,
     "face": {
       "front": {
@@ -600,8 +600,8 @@
     "Yellow": true,
     "Unit": true
   },
-  "054": {
-    "id": "054",
+  "KGM 054/116": {
+    "id": "KGM 054/116",
     "isToken": false,
     "face": {
       "front": {
@@ -620,8 +620,8 @@
     "Unit": true,
     "Yellow": true
   },
-  "055": {
-    "id": "055",
+  "KGM 055/116": {
+    "id": "KGM 055/116",
     "isToken": false,
     "face": {
       "front": {
@@ -640,8 +640,8 @@
     "Non-unit": true,
     "Yellow": true
   },
-  "008": {
-    "id": "008",
+  "KGM 008/116": {
+    "id": "KGM 008/116",
     "isToken": false,
     "face": {
       "front": {
