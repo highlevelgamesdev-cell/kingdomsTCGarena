@@ -83,7 +83,14 @@
         "drawPerTurn": "2"
       },
       "defaultNotes": "Dont forget your towel!",
-      "tokens": [],
+      "tokens": [
+        {
+          "name": "Noble's Mynte",
+          "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Template_-_Copy_1.jpg?raw=true",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        }
+      ],
       "countersStartingValues": [],
       "hideFacedDownCards": false,
       "sections": {
@@ -194,7 +201,7 @@
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
