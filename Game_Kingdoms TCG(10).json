@@ -15,7 +15,7 @@
   "customHelp": "aedfgh",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/CardList(2).json",
+    "dataUrl": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/CardList(5).json",
     "cardBack": "https://steamusercontent-a.akamaihd.net/ugc/17466554852131564566/BBD28E984955677D98E6732506818BE65CDF7402/"
   },
   "deckBuilding": {
