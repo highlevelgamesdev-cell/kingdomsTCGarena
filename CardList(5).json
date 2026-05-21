@@ -1,22 +1,51 @@
 {
-  "1": {
+  "KGM 109/116": {
+    "id": "109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dwarven Cathedral",
+        "type": "Bastion",
+        "cost": "0",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_010.jpg?raw=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Dwarven Cathedral",
+        "type": "Bastion",
+        "cost": 0,
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/backs_Page_1_Image_0001.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Dwarven Cathedral",
+    "type": "Bastion",
+    "cost": 0,
+    "Mythic": false,
+    "Non-unit": true,
+    "Yellow": true
+  },
+  "KGM 002/116": {
     "id": "1",
     "isToken": false,
     "face": {
       "front": {
         "name": "Aires, Lord of Battle",
-        "type": "Lord",
+        "type": "Unit",
         "cost": "3",
         "image": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/aires%20lord%20of%20battle.jpg",
         "isHorizontal": false
       }
     },
     "name": "Aires Lord of Battle",
-    "type": "Lord",
+    "type": "Unit",
     "cost": "3",
-    "Mythic": true
+    "Mythic": true,
+    "Lord": true,
+    "Unit": true,
+    "Yellow": true
   },
-  "2": {
+  "KGM 007/116": {
     "id": "2",
     "isToken": false,
     "face": {
@@ -31,9 +60,11 @@
     "name": "Stack Lhumbar",
     "type": "Unit",
     "cost": "3",
-    "Mythic": true
+    "Mythic": true,
+    "Unit": true,
+    "Yellow": true
   },
-  "3": {
+  "KGM 006/116": {
     "id": "3",
     "isToken": false,
     "face": {
@@ -48,9 +79,11 @@
     "name": "Lillia, Saint of Vitality",
     "type": "Unit",
     "cost": "2",
-    "Mythic": true
+    "Mythic": true,
+    "Yellow": true,
+    "Unit": true
   },
-  "4": {
+  "KGM 009/116": {
     "id": "4",
     "isToken": false,
     "face": {
@@ -65,26 +98,31 @@
     "name": "Valtruess, Peircing Eye of the Storm",
     "type": "Unit",
     "cost": "5",
-    "Mythic": true
+    "Mythic": true,
+    "Unit": true,
+    "Yellow": true
   },
-  "5": {
+  "KGM 003/116": {
     "id": "5",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dauz, Aceus Forgemaster",
-        "type": "Lord",
+        "type": false,
         "cost": "3",
         "image": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/Binder1_Page_007.jpg",
         "isHorizontal": false
       }
     },
     "name": "Dauz, Aceus Forgemaster",
-    "type": "Lord",
+    "type": false,
     "cost": "3",
-    "Mythic": true
+    "Mythic": true,
+    "Lord": true,
+    "Unit": true,
+    "Yellow": true
   },
-  "6": {
+  "KGM 004/116": {
     "id": "6",
     "isToken": false,
     "face": {
@@ -99,9 +137,11 @@
     "name": "Drez, the Druid Warrior",
     "type": "Unit",
     "cost": "2",
-    "Mythic": true
+    "Mythic": true,
+    "Yellow": true,
+    "Unit": true
   },
-  "7": {
+  "KGM 005/116": {
     "id": "7",
     "isToken": false,
     "face": {
@@ -116,26 +156,31 @@
     "name": "Heath, the Prideful",
     "type": "Unit",
     "cost": "4",
-    "Mythic": true
+    "Mythic": true,
+    "Yellow": true,
+    "Unit": true
   },
-  "8": {
+  "KGM 027/116": {
     "id": "8",
     "isToken": false,
     "face": {
       "front": {
         "name": "Zjar, Master Pyromancer",
-        "type": "Lord",
+        "type": "Unit",
         "cost": "3",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_104.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Zjar, Master Pyromancer",
-    "type": "Lord",
+    "type": "Unit",
     "cost": "3",
-    "Mythic": true
+    "Mythic": true,
+    "Lord": true,
+    "Unit": true,
+    "Blue": true
   },
-  "9": {
+  "KGM 025/116": {
     "id": "9",
     "isToken": false,
     "face": {
@@ -150,9 +195,11 @@
     "name": "Wisp & Willow, the Raging Flame",
     "type": "Unit",
     "cost": "2",
-    "Mythic": true
+    "Mythic": true,
+    "Blue": true,
+    "Unit": true
   },
-  "10": {
+  "KGM 026/116": {
     "id": "10",
     "isToken": false,
     "face": {
@@ -167,26 +214,32 @@
     "name": "Wisp & Willow, the Twin Flame",
     "type": "Unit",
     "cost": "2",
-    "Mythic": true
+    "Mythic": true,
+    "Red": false,
+    "Blue": true,
+    "Unit": true
   },
-  "11": {
+  "KGM 022/116": {
     "id": "11",
     "isToken": false,
     "face": {
       "front": {
         "name": "Lord Xavi, Master of the Council",
-        "type": "Lord",
+        "type": "Unit",
         "cost": "2",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_097.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Lord Xavi, Master of the Council",
-    "type": "Lord",
+    "type": "Unit",
     "cost": "2",
-    "Mythic": true
+    "Mythic": true,
+    "Lord": true,
+    "Unit": true,
+    "Blue": true
   },
-  "12": {
+  "KGM 019/116": {
     "id": "12",
     "isToken": false,
     "face": {
@@ -201,9 +254,11 @@
     "name": "Argon, the Telekinetic",
     "type": "Unit",
     "cost": "3",
-    "Mythic": true
+    "Mythic": true,
+    "Blue": true,
+    "Unit": true
   },
-  "13": {
+  "KGM 021/116": {
     "id": "13",
     "isToken": false,
     "face": {
@@ -218,9 +273,11 @@
     "name": "Helga the Bog Witch",
     "type": "Unit",
     "cost": "2",
-    "Mythic": true
+    "Mythic": true,
+    "Blue": true,
+    "Unit": true
   },
-  "14": {
+  "KGM 020/116": {
     "id": "14",
     "isToken": false,
     "face": {
@@ -235,9 +292,11 @@
     "name": "Avren the Spell-Sword",
     "type": "Unit",
     "cost": "2",
-    "Mythic": true
+    "Mythic": true,
+    "Blue": true,
+    "Unit": true
   },
-  "15": {
+  "KGM 016/116": {
     "id": "15",
     "isToken": false,
     "face": {
@@ -252,43 +311,52 @@
     "name": "Red Riding Rogue",
     "type": "Unit",
     "cost": "3",
-    "Mythic": true
+    "Mythic": true,
+    "Unit": true,
+    "Yellow": false,
+    "Red": true
   },
-  "16": {
+  "KGM 013/116": {
     "id": "16",
     "isToken": false,
     "face": {
       "front": {
         "name": "Kh'lip, the \"Golbin\" King",
-        "type": "Lord",
+        "type": "Unit",
         "cost": "3",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_031.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Kh'lip, the \"Golbin\" King",
-    "type": "Lord",
+    "type": "Unit",
     "cost": "3",
-    "Mythic": true
+    "Mythic": true,
+    "Red": true,
+    "Lord": true,
+    "Unit": true
   },
-  "17": {
+  "KGM 014/116": {
     "id": "17",
     "isToken": false,
     "face": {
       "front": {
         "name": "The King of Thieves",
-        "type": "Lord",
+        "type": "Unit",
         "cost": "3",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_035.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "The King of Thieves",
-    "type": "Lord",
+    "type": "Unit",
     "cost": "3",
-    "Mythic": true
+    "Mythic": true,
+    "Red": true,
+    "Lord": true,
+    "Unit": true
   },
-  "18": {
+  "KGM 012/116": {
     "id": "18",
     "isToken": false,
     "face": {
@@ -303,6 +371,308 @@
     "name": "Jack Wolf-Man the Tame",
     "type": "Unit",
     "cost": "4",
-    "Mythic": true
+    "Mythic": true,
+    "Red": true,
+    "Unit": true
+  },
+  "KGM 001/116": {
+    "id": "001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aceus Arms Hall",
+        "type": "Relic",
+        "cost": "1",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_001.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Aceus Arms Hall of Legends",
+    "type": "Relic",
+    "cost": "1",
+    "Mythic": true,
+    "Yellow": true,
+    "Non-unit": true
+  },
+  "KGM 043/116": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "After the Storm",
+        "type": "Scroll",
+        "cost": "1",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_002.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "After the Storm",
+    "type": "Scroll",
+    "cost": "1",
+    "Mythic": false,
+    "Swift": true,
+    "Yellow": true,
+    "Non-unit": true
+  },
+  "KGM 052/116": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ready Another Axe",
+        "type": "Supply",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_004.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ready Another Axe",
+    "type": "Supply",
+    "cost": "2",
+    "Mythic": false,
+    "Yellow": true,
+    "Non-unit": true
+  },
+  "KGM 044/116": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Barbar Dwarf",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_005.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Barbar Dwarf",
+    "type": "Unit",
+    "cost": "3",
+    "Mythic": false,
+    "Yellow": true,
+    "Unit": true
+  },
+  "KGM 045/116": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Big Shield Dwarf",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_006.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Big Shield Dwarf",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": false,
+    "Yellow": true,
+    "Unit": true
+  },
+  "KGM 048/116": {
+    "id": "048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dwarfed Dwarf",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_008.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dwarfed Dwarf",
+    "type": "Unit",
+    "cost": "1",
+    "Mythic": false
+  },
+  "KGM 046/116": {
+    "id": "046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dwarven Bannerman",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_009.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dwarven Bannerman",
+    "type": "Unit",
+    "cost": "1",
+    "Mythic": false,
+    "Unit": true,
+    "Yellow": true
+  },
+  "KGM 047/116": {
+    "id": "KGM 047/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dwarven Champion",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_011.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dwarven Champion",
+    "type": "Unit",
+    "cost": "5",
+    "Mythic": false,
+    "Unit": true,
+    "Yellow": true
+  },
+  "KGM 049/116": {
+    "id": "KGM 049/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dwarven Trench Technician",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_012.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dwarven Trench Technician",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": false,
+    "Swift": true,
+    "Yellow": true,
+    "Unit": true
+  },
+  "KGM 051/116": {
+    "id": "KGM 051/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phoenix Feather",
+        "type": "Scroll",
+        "cost": "1",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_015.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phoenix Feather",
+    "type": "Scroll",
+    "cost": "1",
+    "Mythic": false,
+    "Swift": true,
+    "Yellow": true,
+    "Non-unit": true
+  },
+  "KGM 053/116": {
+    "id": "KGM 053/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Relaxed Dwarf",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_016.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relaxed Dwarf",
+    "type": "Unit",
+    "cost": "1",
+    "Mythic": false,
+    "Swift": false,
+    "Yellow": true,
+    "Unit": true
+  },
+  "KGM 054/116": {
+    "id": "KGM 054/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Restless Dwarf",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_017.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Restless Dwarf",
+    "type": "Unit",
+    "cost": "1",
+    "Mythic": false,
+    "Swift": false,
+    "Unit": true,
+    "Yellow": true
+  },
+  "KGM 055/116": {
+    "id": "KGM 055/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Speed Scroll",
+        "type": "Scroll",
+        "cost": "1",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_018.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Speed Scroll",
+    "type": "Scroll",
+    "cost": "1",
+    "Mythic": false,
+    "Swift": true,
+    "Non-unit": true,
+    "Yellow": true
+  },
+  "KGM 008/116": {
+    "id": "KGM 008/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Sword of Boundless Energy",
+        "type": "Supply",
+        "cost": "3",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_020.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Sword of Boundless Energy",
+    "type": "Supply",
+    "cost": "3",
+    "Mythic": true,
+    "Swift": false,
+    "Continuous": true,
+    "Non-unit": true,
+    "Yellow": true
+  },
+  "KGM 115/116": {
+    "id": "KGM 115/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vellaceus - Dwarven Capital",
+        "type": "Bastion",
+        "cost": 0,
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_021.jpg?raw=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Vellaceus - Dwarven Capital",
+        "type": "Bastion",
+        "cost": 0,
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/backs_Page_2_Image_0001.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Vellaceus - Dwarven Capital",
+    "type": "Bastion",
+    "cost": 0,
+    "Mythic": false,
+    "Swift": false,
+    "Continuous": false,
+    "Non-unit": true,
+    "Yellow": true
   }
 }
