@@ -151,12 +151,7 @@
             {
               "direction": "column",
               "style": false,
-              "content": [
-                {
-                  "section": "Kingdom",
-                  "style": false
-                }
-              ],
+              "content": [],
               "isSymetricalForOpponents": false
             },
             {
