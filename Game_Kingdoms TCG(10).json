@@ -35,7 +35,7 @@
     "formats": [
       {
         "title": "Eternal",
-        "gameplay": "A",
+        "gameplay": "Kingdoms",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -43,7 +43,7 @@
       },
       {
         "title": "Blitz",
-        "gameplay": "A",
+        "gameplay": "Kingdoms",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -51,7 +51,7 @@
       },
       {
         "title": "Tag-Team",
-        "gameplay": "A",
+        "gameplay": "Kingdoms",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -59,7 +59,7 @@
       },
       {
         "title": "Free-For-All",
-        "gameplay": "A",
+        "gameplay": "Kingdoms",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -68,7 +68,7 @@
     ]
   },
   "gameplay": {
-    "A": {
+  "Kingdoms": {
       "mulligan": {
         "info": "eratgaer",
         "startingHandSize": "5",
