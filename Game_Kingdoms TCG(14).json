@@ -95,13 +95,12 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Terra",
           "Front_line",
-          "Bastion",
           "Throne_Room_Zone_1",
           "Throne_Room_Zone_2",
-          "Terra",
-          "Kingdom"
+          "Bastion",
+          "Kingdom",
+          "Terra"
         ],
         "layout": {
           "direction": "column",
