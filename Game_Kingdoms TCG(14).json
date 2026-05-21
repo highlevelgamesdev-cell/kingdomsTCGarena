@@ -35,7 +35,7 @@
     "formats": [
       {
         "title": "Eternal",
-        "gameplay": "King",
+        "gameplay": "738176dc-823b-495f-a703-8d805f6480e8",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -43,7 +43,7 @@
       },
       {
         "title": "Blitz",
-        "gameplay": "King",
+        "gameplay": "738176dc-823b-495f-a703-8d805f6480e8",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -51,7 +51,7 @@
       },
       {
         "title": "Tag-Team",
-        "gameplay": "King",
+        "gameplay": "738176dc-823b-495f-a703-8d805f6480e8",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -59,7 +59,7 @@
       },
       {
         "title": "Free-For-All",
-        "gameplay": "King",
+        "gameplay": "738176dc-823b-495f-a703-8d805f6480e8",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -68,9 +68,9 @@
     ]
   },
   "gameplay": {
-    "King": {
+    "738176dc-823b-495f-a703-8d805f6480e8": {
       "mulligan": {
-        "info": "Mulligan",
+        "info": "",
         "startingHandSize": "5",
         "drawNewHand": true,
         "putSelectionAtBottom": true,
@@ -79,43 +79,31 @@
       "newTurn": {
         "drawOnStart": true,
         "sharedTurn": false,
-        "firstPlayerTokenName": "Noble's Mynte",
+        "firstPlayerTokenName": "",
         "drawPerTurn": "2"
       },
-      "defaultNotes": "Dont forget your towel!",
-      "tokens": [
-        {
-          "name": "Noble's Mynte",
-          "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Template_-_Copy_1.jpg?raw=true",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        }
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0
       ],
-      "countersStartingValues": [],
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Front_line",
-          "Throne_Room_Zone_1",
-          "Throne_Room_Zone_2",
-          "Bastion",
+          "Front_Line",
+          "Mana",
           "Kingdom",
-          "Terra"
+          "Throne1",
+          "Throne2",
+          "Bastion"
         ],
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "direction": "column",
-              "style": false,
-              "content": [
-                {
-                  "section": "Front_line",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
+              "section": "Front_Line",
+              "style": false
             },
             {
               "direction": "row",
@@ -126,11 +114,11 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Throne_Room_Zone_1",
+                      "section": "Throne1",
                       "style": false
                     },
                     {
-                      "section": "Throne_Room_Zone_2",
+                      "section": "Throne2",
                       "style": false
                     },
                     {
@@ -148,110 +136,27 @@
               "isSymetricalForOpponents": false
             },
             {
-              "direction": "column",
-              "style": false,
-              "content": [],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "section": "Terra",
+              "section": "Mana",
               "style": false
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [],
+        "categoriesAlreadyOnBoard": [
+          "Royals",
+          "Bastion"
+        ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Terra": {
-            "title": "Terra",
-            "isHidden": "no",
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Terra",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Kingdom": {
-            "title": "Kingdom",
-            "isHidden": "no",
-            "height": "BIG",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Throne_Roome_Zone_1": {
-            "title": "Throne_Roome_Zone_1",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Throne Room",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Throne_Roome_Zone_2": {
-            "title": "Throne_Roome_Zone_2",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Throne Room",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Bastion": {
-            "title": "Bastion",
-            "isHidden": "no",
-            "height": "BIG",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Front_line": {
-            "title": "Front_line",
-            "isHidden": "no",
-            "height": "BIG",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Front line",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
