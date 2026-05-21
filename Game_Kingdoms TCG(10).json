@@ -3,20 +3,19 @@
   "menuBackgroundImage": "https://i.postimg.cc/0NvgPhK9/Kingdoms-ks-Logo.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://steamusercontent-a.akamaihd.net/ugc/12493146452886138264/29DEBA0F72CFF9329D1490D9E893279BC431FCEC/",
-      "https://steamusercontent-a.akamaihd.net/ugc/11589996011753859845/31D429D63DC905CCA688EFCEBEEE2C39C29C5D64/",
-      "https://steamusercontent-a.akamaihd.net/ugc/10287444467439411591/05705779B5073CC312103FA77434FBF3120D61CE/",
-      "https://steamusercontent-a.akamaihd.net/ugc/15122749393259604143/7D5C770541C0F0DF3405036A5B4BB76D283109D1/",
-      "https://steamusercontent-a.akamaihd.net/ugc/11285110258445022375/5E13654BA61915B12ED533AC54BC4DEAF454CC02/",
-      "https://steamusercontent-a.akamaihd.net/ugc/13369360139105458349/A461ED5E9BA8687B7A45CA23557718EFD4FF2069/"
+      "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/05705779B5073CC312103FA77434FBF3120D61CE_8238AFA1372F5518923860DFD34D73F4379C34B4_stone_600res.jpg?raw=true",
+      "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/29DEBA0F72CFF9329D1490D9E893279BC431FCEC_8243F41050091D878B3E9FB4F7D13A1D70C4CD1E_Overpower.jpg?raw=true",
+      "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/31D429D63DC905CCA688EFCEBEEE2C39C29C5D64_FC8373FA3DD2E7EFFEBC82AD0731503E3E8754E0_Airies_Lord_of_Battle.jpg?raw=true",
+      "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/7D5C770541C0F0DF3405036A5B4BB76D283109D1_55E70FAFF235D1F7DF3F37DF1183B3B36C1812CE_Red%20Riding%20Rogue%20(3).jpg?raw=true",
+      "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/A461ED5E9BA8687B7A45CA23557718EFD4FF2069_Buzzsaw-Beetle.jpg?raw=true"
     ],
     "decksUrl": ""
   },
-  "customHelp": "aedfgh",
-  "cardRotation": 45,
+  "customHelp": "",
+  "cardRotation": "90",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/CardList(5).json",
-    "cardBack": "https://steamusercontent-a.akamaihd.net/ugc/17466554852131564566/BBD28E984955677D98E6732506818BE65CDF7402/"
+    "cardBack": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/BBD28E984955677D98E6732506818BE65CDF7402_cARD%20BACK%20TTS.jpg?raw=true"
   },
   "deckBuilding": {
     "mainFilters": [
@@ -36,7 +35,7 @@
     "formats": [
       {
         "title": "Eternal",
-        "gameplay": "Kingdoms",
+        "gameplay": "A",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -44,7 +43,7 @@
       },
       {
         "title": "Blitz",
-        "gameplay": "Kingdoms",
+        "gameplay": "A",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -52,7 +51,7 @@
       },
       {
         "title": "Tag-Team",
-        "gameplay": "Kingdoms",
+        "gameplay": "A",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -60,7 +59,7 @@
       },
       {
         "title": "Free-For-All",
-        "gameplay": "Kingdoms",
+        "gameplay": "A",
         "customCategories": [
           "Royals",
           "Bastion"
@@ -69,7 +68,7 @@
     ]
   },
   "gameplay": {
-    "Kingdoms": {
+    "A": {
       "mulligan": {
         "info": "eratgaer",
         "startingHandSize": "5",
