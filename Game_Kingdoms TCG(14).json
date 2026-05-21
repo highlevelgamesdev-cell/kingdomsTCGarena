@@ -165,12 +165,6 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [
-          "Main Deck",
-          "Terra Deck",
-          "Royals",
-          "Bastion"
-        ],
         "autoPlayFromHand": {
           "Terra": "Terra"
         },
