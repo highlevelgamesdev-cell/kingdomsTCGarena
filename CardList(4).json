@@ -1,0 +1,308 @@
+{
+  "1": {
+    "id": "1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aires, Lord of Battle",
+        "type": "Lord",
+        "cost": "3",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/6/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aires Lord of Battle",
+    "type": "Lord",
+    "cost": "3",
+    "Mythic": true
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stack Lhumbar",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/20/image_1920",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stack Lhumbar",
+    "type": "Unit",
+    "cost": "3",
+    "Mythic": true
+  },
+  "3": {
+    "id": "3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lillia, Saint of Vitality",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/14/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lillia, Saint of Vitality",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": true
+  },
+  "4": {
+    "id": "4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Valtruess, Peircing Eye of the Storm",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://steamusercontent-a.akamaihd.net/ugc/16802276935641357789/9BC82A10093C2F33B7FCAA298DFF0116FB5CACEE/",
+        "isHorizontal": false
+      }
+    },
+    "name": "Valtruess, Peircing Eye of the Storm",
+    "type": "Unit",
+    "cost": "5",
+    "Mythic": true
+  },
+  "5": {
+    "id": "5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dauz, Aceus Forgemaster",
+        "type": "Lord",
+        "cost": "3",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/18/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dauz, Aceus Forgemaster",
+    "type": "Lord",
+    "cost": "3",
+    "Mythic": true
+  },
+  "6": {
+    "id": "6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drez, the Druid Warrior",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/19/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drez, the Druid Warrior",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": true
+  },
+  "7": {
+    "id": "7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heath, the Prideful",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/21/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heath, the Prideful",
+    "type": "Unit",
+    "cost": "4",
+    "Mythic": true
+  },
+  "8": {
+    "id": "8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zjar, Master Pyromancer",
+        "type": "Lord",
+        "cost": "3",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/81/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zjar, Master Pyromancer",
+    "type": "Lord",
+    "cost": "3",
+    "Mythic": true
+  },
+  "9": {
+    "id": "9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wisp & Willow, the Raging Flame",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/83/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wisp & Willow, the Raging Flame",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": true
+  },
+  "10": {
+    "id": "10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wisp & Willow, the Twin Flame",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://kingdomstcg.odoo.com/web/image/product.product/82/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wisp & Willow, the Twin Flame",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": true
+  },
+  "11": {
+    "id": "11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lord Xavi, Master of the Council",
+        "type": "Lord",
+        "cost": "2",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/80/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lord Xavi, Master of the Council",
+    "type": "Lord",
+    "cost": "2",
+    "Mythic": true
+  },
+  "12": {
+    "id": "12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Argon, the Telekinetic",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/79/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Argon, the Telekinetic",
+    "type": "Unit",
+    "cost": "3",
+    "Mythic": true
+  },
+  "13": {
+    "id": "13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Helga the Bog Witch",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/84/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Helga the Bog Witch",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": true
+  },
+  "14": {
+    "id": "14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Avren the Spell-Sword",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/78/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Avren the Spell-Sword",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": true
+  },
+  "15": {
+    "id": "15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Riding Rogue",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/61/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Riding Rogue",
+    "type": "Unit",
+    "cost": "3",
+    "Mythic": true
+  },
+  "16": {
+    "id": "16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kh'lip, the \"Golbin\" King",
+        "type": "Lord",
+        "cost": "3",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/64/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kh'lip, the \"Golbin\" King",
+    "type": "Lord",
+    "cost": "3",
+    "Mythic": true
+  },
+  "17": {
+    "id": "17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The King of Thieves",
+        "type": "Lord",
+        "cost": "3",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/66/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "The King of Thieves",
+    "type": "Lord",
+    "cost": "3",
+    "Mythic": true
+  },
+  "18": {
+    "id": "18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jack Wolf-Man the Tame",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://www.kingdomstcg.com/web/image/product.product/67/image_1024",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jack Wolf-Man the Tame",
+    "type": "Unit",
+    "cost": "4",
+    "Mythic": true
+  }
+}
