@@ -96,10 +96,10 @@
       "sections": {
         "customSections": [
           "Terra",
-          "Front-line",
+          "Front_line",
           "Bastion",
-          "Throne Room Zone 1",
-          "Throne Room Zone 2",
+          "Throne_Room_Zone_1",
+          "Throne_Room_Zone_2",
           "Terra",
           "Kingdom"
         ],
