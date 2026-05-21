@@ -122,7 +122,7 @@
     "face": {
       "front": {
         "name": "Dauz, Aceus Forgemaster",
-        "type": false,
+        "type": "Unit",
         "cost": "3",
         "image": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/Binder1_Page_007.jpg",
         "isHorizontal": false
