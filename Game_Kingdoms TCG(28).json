@@ -99,7 +99,7 @@
       "sections": {
         "customSections": [
           "Front_Line",
-          "Mana",
+          "Terra",
           "Kingdom",
           "Throne1",
           "Throne2",
@@ -163,7 +163,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Mana",
+                  "section": "Terra",
                   "style": false
                 },
                 {
