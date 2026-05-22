@@ -660,5 +660,30 @@
     "Continuous": true,
     "Non-unit": true,
     "Yellow": true
+  },
+  "KGM 106/116": {
+    "id": "KGM 106/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Terra",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_062.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Terra",
+    "type": "Terra",
+    "cost": 0,
+    "Mythic": false,
+    "Non-unit": true,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": false
   }
 }
