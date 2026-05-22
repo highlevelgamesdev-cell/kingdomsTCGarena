@@ -1,6 +1,6 @@
 {
   "KGM 109/116": {
-    "id": "109",
+    "id": "KGM 109/116",
     "isToken": false,
     "face": {
       "front": {
@@ -8,13 +8,6 @@
         "type": "Bastion",
         "cost": "0",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_010.jpg?raw=true",
-        "isHorizontal": true
-      },
-      "back": {
-        "name": "Dwarven Cathedral",
-        "type": "Bastion",
-        "cost": 0,
-        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/backs_Page_1_Image_0001.jpg?raw=true",
         "isHorizontal": true
       }
     },
@@ -25,8 +18,29 @@
     "Non-unit": true,
     "Yellow": true
   },
+  "KGM 115/116": {
+    "id": "KGM 115/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vellaceus - Dwarven Capital",
+        "type": "Bastion",
+        "cost": 0,
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_021.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Vellaceus - Dwarven Capital",
+    "type": "Bastion",
+    "cost": 0,
+    "Mythic": false,
+    "Swift": false,
+    "Continuous": false,
+    "Non-unit": true,
+    "Yellow": true
+  },
   "KGM 002/116": {
-    "id": "1",
+    "id": "KGM 002/116",
     "isToken": false,
     "face": {
       "front": {
@@ -46,7 +60,7 @@
     "Yellow": true
   },
   "KGM 007/116": {
-    "id": "2",
+    "id": "KGM 007/116",
     "isToken": false,
     "face": {
       "front": {
@@ -65,7 +79,7 @@
     "Yellow": true
   },
   "KGM 006/116": {
-    "id": "3",
+    "id": "KGM 006/116",
     "isToken": false,
     "face": {
       "front": {
@@ -84,7 +98,7 @@
     "Unit": true
   },
   "KGM 009/116": {
-    "id": "4",
+    "id": "KGM 009/116",
     "isToken": false,
     "face": {
       "front": {
@@ -103,19 +117,19 @@
     "Yellow": true
   },
   "KGM 003/116": {
-    "id": "5",
+    "id": "KGM 003/116",
     "isToken": false,
     "face": {
       "front": {
         "name": "Dauz, Aceus Forgemaster",
-        "type": false,
+        "type": "Unit",
         "cost": "3",
         "image": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/Binder1_Page_007.jpg",
         "isHorizontal": false
       }
     },
     "name": "Dauz, Aceus Forgemaster",
-    "type": false,
+    "type": "Unit",
     "cost": "3",
     "Mythic": true,
     "Lord": true,
@@ -123,7 +137,7 @@
     "Yellow": true
   },
   "KGM 004/116": {
-    "id": "6",
+    "id": "KGM 004/116",
     "isToken": false,
     "face": {
       "front": {
@@ -142,7 +156,7 @@
     "Unit": true
   },
   "KGM 005/116": {
-    "id": "7",
+    "id": "KGM 005/116",
     "isToken": false,
     "face": {
       "front": {
@@ -161,7 +175,7 @@
     "Unit": true
   },
   "KGM 027/116": {
-    "id": "8",
+    "id": "KGM 027/116",
     "isToken": false,
     "face": {
       "front": {
@@ -181,7 +195,7 @@
     "Blue": true
   },
   "KGM 025/116": {
-    "id": "9",
+    "id": "KGM 025/116",
     "isToken": false,
     "face": {
       "front": {
@@ -200,7 +214,7 @@
     "Unit": true
   },
   "KGM 026/116": {
-    "id": "10",
+    "id": "KGM 026/116",
     "isToken": false,
     "face": {
       "front": {
@@ -220,7 +234,7 @@
     "Unit": true
   },
   "KGM 022/116": {
-    "id": "11",
+    "id": "KGM 022/116",
     "isToken": false,
     "face": {
       "front": {
@@ -240,7 +254,7 @@
     "Blue": true
   },
   "KGM 019/116": {
-    "id": "12",
+    "id": "KGM 019/116",
     "isToken": false,
     "face": {
       "front": {
@@ -259,7 +273,7 @@
     "Unit": true
   },
   "KGM 021/116": {
-    "id": "13",
+    "id": "KGM 021/116",
     "isToken": false,
     "face": {
       "front": {
@@ -278,7 +292,7 @@
     "Unit": true
   },
   "KGM 020/116": {
-    "id": "14",
+    "id": "KGM 020/116",
     "isToken": false,
     "face": {
       "front": {
@@ -297,7 +311,7 @@
     "Unit": true
   },
   "KGM 016/116": {
-    "id": "15",
+    "id": "KGM 016/116",
     "isToken": false,
     "face": {
       "front": {
@@ -317,7 +331,7 @@
     "Red": true
   },
   "KGM 013/116": {
-    "id": "16",
+    "id": "KGM 013/116",
     "isToken": false,
     "face": {
       "front": {
@@ -337,7 +351,7 @@
     "Unit": true
   },
   "KGM 014/116": {
-    "id": "17",
+    "id": "KGM 014/116",
     "isToken": false,
     "face": {
       "front": {
@@ -357,7 +371,7 @@
     "Unit": true
   },
   "KGM 012/116": {
-    "id": "18",
+    "id": "KGM 012/116",
     "isToken": false,
     "face": {
       "front": {
@@ -376,7 +390,7 @@
     "Unit": true
   },
   "KGM 001/116": {
-    "id": "001",
+    "id": "KGM 001/116",
     "isToken": false,
     "face": {
       "front": {
@@ -395,7 +409,7 @@
     "Non-unit": true
   },
   "KGM 043/116": {
-    "id": "",
+    "id": "KGM 043/116",
     "isToken": false,
     "face": {
       "front": {
@@ -415,7 +429,7 @@
     "Non-unit": true
   },
   "KGM 052/116": {
-    "id": "",
+    "id": "KGM 052/116",
     "isToken": false,
     "face": {
       "front": {
@@ -434,7 +448,7 @@
     "Non-unit": true
   },
   "KGM 044/116": {
-    "id": "",
+    "id": "KGM 044/116",
     "isToken": false,
     "face": {
       "front": {
@@ -453,7 +467,7 @@
     "Unit": true
   },
   "KGM 045/116": {
-    "id": "",
+    "id": "KGM 045/116",
     "isToken": false,
     "face": {
       "front": {
@@ -472,7 +486,7 @@
     "Unit": true
   },
   "KGM 048/116": {
-    "id": "048",
+    "id": "KGM 048/116",
     "isToken": false,
     "face": {
       "front": {
@@ -489,7 +503,7 @@
     "Mythic": false
   },
   "KGM 046/116": {
-    "id": "046",
+    "id": "KGM 046/116",
     "isToken": false,
     "face": {
       "front": {
@@ -647,32 +661,29 @@
     "Non-unit": true,
     "Yellow": true
   },
-  "KGM 115/116": {
-    "id": "KGM 115/116",
+  "KGM 106/116": {
+    "id": "KGM 106/116",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Vellaceus - Dwarven Capital",
-        "type": "Bastion",
+        "name": "Terra",
+        "type": "Terra",
         "cost": 0,
-        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_021.jpg?raw=true",
-        "isHorizontal": true
-      },
-      "back": {
-        "name": "Vellaceus - Dwarven Capital",
-        "type": "Bastion",
-        "cost": 0,
-        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/backs_Page_2_Image_0001.jpg?raw=true",
-        "isHorizontal": true
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_062.jpg?raw=true",
+        "isHorizontal": false
       }
     },
-    "name": "Vellaceus - Dwarven Capital",
-    "type": "Bastion",
+    "name": "Terra",
+    "type": "Terra",
     "cost": 0,
     "Mythic": false,
+    "Non-unit": true,
+    "Yellow": false,
     "Swift": false,
     "Continuous": false,
-    "Non-unit": true,
-    "Yellow": true
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": false
   }
 }
