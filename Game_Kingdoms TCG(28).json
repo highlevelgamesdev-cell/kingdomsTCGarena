@@ -203,8 +203,12 @@
           "Throne2",
           "Terra"
         ],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromHand": {
+          "Terra": "Mana"
+        },
+        "autoPlayFromStack": {
+          "Stack": "Kingdom"
+        },
         "sectionsDict": {
           "Terra": {
             "title": "Terra",
