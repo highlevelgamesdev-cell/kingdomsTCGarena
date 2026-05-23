@@ -141,8 +141,7 @@
                         {
                           "section": "Bastion",
                           "style": {
-                            "height": "11vh",
-                            "width": "15vh"
+                            "width": "14vh"
                           }
                         }
                       ],
@@ -242,7 +241,7 @@
             "title": "Throne1",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "HAND",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -258,7 +257,7 @@
             "title": "Throne2",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "HAND",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
