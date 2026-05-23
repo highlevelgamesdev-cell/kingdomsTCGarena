@@ -671,6 +671,13 @@
         "cost": 0,
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_062.jpg?raw=true",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Terra",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/EF613E3E93AFD628B3978D78C8DBD6401E8D532C_2025%20-%20card%20back.jpg?raw=true",
+        "isHorizontal": false
       }
     },
     "name": "Terra",
