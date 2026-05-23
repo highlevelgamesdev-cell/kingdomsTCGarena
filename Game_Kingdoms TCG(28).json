@@ -206,9 +206,10 @@
           "Throne2",
           "Terra"
         ],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {
+        "autoPlayFromHand": {
           "Terra": "Hand",
+        },
+        "autoPlayFromStack": {
           "Throne1": "Kingdom",
           "Throne2": "Kingdom"
         },
