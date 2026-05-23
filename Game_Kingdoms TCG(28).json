@@ -193,7 +193,8 @@
         "categoriesAlreadyOnBoard": [
           "Throne1",
           "Bastion",
-          "Throne2"
+          "Throne2",
+          "TerraDeck"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
