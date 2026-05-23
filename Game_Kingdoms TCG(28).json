@@ -99,7 +99,7 @@
       "sections": {
         "customSections": [
           "Front_Line",
-          "Terra",
+          "Mana",
           "Kingdom",
           "Throne1",
           "Throne2",
@@ -133,27 +133,20 @@
                         {
                           "section": "Throne2",
                           "style": false
+                        },
+                        {
+                          "section": "Bastion",
+                          "style": false
                         }
                       ],
                       "isSymetricalForOpponents": false
-                    },
-                    {
-                      "section": "Bastion",
-                      "style": false
                     }
                   ],
                   "isSymetricalForOpponents": false
                 },
                 {
-                  "direction": "column",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Kingdom",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "section": "Kingdom",
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -163,7 +156,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Terra",
+                  "section": "Mana",
                   "style": false
                 },
                 {
@@ -178,7 +171,6 @@
         "categoriesAlreadyOnBoard": [
           "Throne1",
           "Bastion",
-          "Terra",
           "Throne2"
         ],
         "autoPlayFromHand": {},
@@ -280,8 +272,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Terra": {
-            "title": "Terra",
+          "Mana": {
+            "title": "Mana",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
