@@ -172,7 +172,7 @@
                       "style": false,
                       "content": [
                         {
-                          "section": "TerraDeck",
+                          "section": "Terra",
                           "style": false
                         },
                         {
@@ -202,13 +202,13 @@
           "Throne1",
           "Bastion",
           "Throne2",
-          "TerraDeck"
+          "Terra"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "TerraDeck": {
-            "title": "TerraDeck",
+          "Terra": {
+            "title": "Terra",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "DECK",
