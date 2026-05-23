@@ -209,7 +209,7 @@
         "sectionsDict": {
           "Terra": {
             "title": "Terra",
-            "isHidden": "no",
+            "isHidden": "Yes",
             "height": "SMALL",
             "alignment": "DECK",
             "opponentAlignment": false,
