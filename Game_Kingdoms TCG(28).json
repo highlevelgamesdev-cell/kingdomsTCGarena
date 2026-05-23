@@ -129,21 +129,20 @@
                         {
                           "section": "Throne1",
                           "style": {
-                                    "width": "11vh"
+                            "width": "11vh"
                           }
                         },
                         {
                           "section": "Throne2",
-                          "style":  {
-                                    "width": "11vh"
+                          "style": {
+                            "width": "11vh"
                           }
                         },
                         {
                           "section": "Bastion",
                           "style": {
-                                    "height": "11vh",
-                                    "width": "15vh"
-
+                            "height": "11vh",
+                            "width": "15vh"
                           }
                         }
                       ],
@@ -243,7 +242,7 @@
             "title": "Throne1",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "HAND",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -259,7 +258,7 @@
             "title": "Throne2",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "HAND",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
