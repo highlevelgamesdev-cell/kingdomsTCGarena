@@ -152,7 +152,9 @@
                 },
                 {
                   "section": "Kingdom",
-                  "style": false
+                  "style":  {
+                        "width": "50vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
