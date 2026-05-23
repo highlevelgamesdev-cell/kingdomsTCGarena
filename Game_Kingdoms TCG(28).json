@@ -141,6 +141,7 @@
                         {
                           "section": "Bastion",
                           "style": {
+                            "height": "11vh",
                             "width": "15vh"
                           }
                         }
@@ -203,13 +204,14 @@
           "Terra"
         ],
         "autoPlayFromHand": {
-          "Terra": "Hand",
-          "Unit": "Stack"
-        },
-        "autoPlayFromStack": {
+          "TerraDeck": "Hand",
+          "Terra": "Mana",
           "Unit": "Kingdom",
           "Relic": "Kingdom2",
           "Supply": "Kingdom2"
+        },
+        "autoPlayFromStack": {
+
         },
         "sectionsDict": {
           "Terra": {
@@ -248,9 +250,9 @@
             "title": "Throne1",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "DECK",
+            "alignment": "HAND",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Throne Room Zone 1",
             "noQuickActions": true,
@@ -264,9 +266,9 @@
             "title": "Throne2",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "DECK",
+            "alignment": "HAND",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Throne Room Zone 2",
             "noQuickActions": true,
