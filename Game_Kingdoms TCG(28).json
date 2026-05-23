@@ -176,6 +176,17 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
+        "TerraDeck": {
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "noQuickActions": true,
+                        "alignment": "DECK",
+                        "drawPerTurn": 0,
+                        "noAutoPayTo": true,
+                        "displayedTitle": "Terra Deck",
+                        "cardBackColor": "#a6a4d6"
+                    },
+          
           "Front_Line": {
             "title": "Front_Line",
             "isHidden": "no",
