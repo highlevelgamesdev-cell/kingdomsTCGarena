@@ -85,10 +85,10 @@
         "drawNewSelectedCards": false
       },
       "newTurn": {
-        "drawOnStart": true,
+        "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
-        "drawPerTurn": "2"
+        "drawPerTurn": "1"
       },
       "defaultNotes": "",
       "tokens": [],
@@ -141,7 +141,7 @@
                         {
                           "section": "Bastion",
                           "style": {
-                                    "height": "4vh",
+                                    "height": "11vh",
                                     "width": "15vh"
 
                           }
