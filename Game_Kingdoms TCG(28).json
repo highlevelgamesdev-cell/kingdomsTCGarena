@@ -203,8 +203,7 @@
           "Terra"
         ],
         "autoPlayFromHand": {
-          "Terra": "Hand",
-          "Terra": "Mana"
+          "Terra": "Hand"
         },
         "autoPlayFromStack": {
           "Unit": "Kingdom",
@@ -250,7 +249,7 @@
             "height": "SMALL",
             "alignment": "DECK",
             "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "noAutoPayTo": false,
             "isHorizontalAllowed": false,
             "displayedTitle": "Throne Room Zone 1",
             "noQuickActions": true,
@@ -266,7 +265,7 @@
             "height": "SMALL",
             "alignment": "DECK",
             "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "noAutoPayTo": false,
             "isHorizontalAllowed": false,
             "displayedTitle": "Throne Room Zone 2",
             "noQuickActions": true,
