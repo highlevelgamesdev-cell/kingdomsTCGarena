@@ -128,15 +128,23 @@
                       "content": [
                         {
                           "section": "Throne1",
-                          "style": false
+                          "style": {
+                                    "width": "11vh"
+                          }
                         },
                         {
                           "section": "Throne2",
-                          "style": false
+                          "style":  {
+                                    "width": "11vh"
+                          }
                         },
                         {
                           "section": "Bastion",
-                          "style": false
+                          "style": {
+                                    "height": "11vh",
+                                    "width": "4vh"
+
+                          }
                         }
                       ],
                       "isSymetricalForOpponents": false
@@ -164,7 +172,7 @@
                       "style": false,
                       "content": [
                         {
-                          "section": "Terra",
+                          "section": "TerraDeck",
                           "style": false
                         },
                         {
@@ -194,20 +202,20 @@
           "Throne1",
           "Bastion",
           "Throne2",
-          "Terra"
+          "TerraDeck"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Terra": {
-            "title": "Terra",
+          "TerraDeck": {
+            "title": "TerraDeck",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Terra Deck",
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
