@@ -39,7 +39,7 @@
         "customCategories": [
           "Throne1",
           "Throne2",
-          "",
+          "Bastion",
           "Terra"
         ]
       },
@@ -49,7 +49,7 @@
         "customCategories": [
           "Throne1",
           "Throne2",
-          "",
+          "Bastion",
           "Terra"
         ]
       },
@@ -59,7 +59,7 @@
         "customCategories": [
           "Throne1",
           "Throne2",
-          "",
+          "Bastion",
           "Terra"
         ]
       },
@@ -69,7 +69,7 @@
         "customCategories": [
           "Throne1",
           "Throne2",
-          "",
+          "Bastion",
           "Terra"
         ]
       }
@@ -215,7 +215,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
+            "displayedTitle": "Terra Deck",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
