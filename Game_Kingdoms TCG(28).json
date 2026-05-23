@@ -204,10 +204,12 @@
           "Terra"
         ],
         "autoPlayFromHand": {
-          "Terra": "Mana"
+          "Terra": "Hand"
         },
         "autoPlayFromStack": {
-          "Stack": "Kingdom"
+          "Unit": "Kingdom",
+          "Relic": "Kingdom2",
+          "Supply": "Kingdom2"
         },
         "sectionsDict": {
           "Terra": {
@@ -215,11 +217,11 @@
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "DECK",
-            "opponentAlignment": true,
+            "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Terra Deck",
-            "noQuickActions": true,
+            "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -246,7 +248,7 @@
             "title": "Throne1",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "DECK",
+            "alignment": "HAND",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -262,7 +264,7 @@
             "title": "Throne2",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "DECK",
+            "alignment": "HAND",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
