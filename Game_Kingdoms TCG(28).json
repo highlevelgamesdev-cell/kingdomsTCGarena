@@ -203,7 +203,8 @@
           "Terra"
         ],
         "autoPlayFromHand": {
-          "Terra": "Hand"
+          "Terra": "Hand",
+          "Terra": "Mana"
         },
         "autoPlayFromStack": {
           "Unit": "Kingdom",
