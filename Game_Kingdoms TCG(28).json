@@ -230,6 +230,25 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
+            "Throne1": {
+            "isDefaultSection": true,
+            "title": "Throne1",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "START",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "reverseZOrder": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "displayedTitle": "",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
           "Front_Line": {
             "title": "Front_Line",
             "isHidden": "no",
@@ -243,22 +262,6 @@
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Throne1": {
-            "title": "Throne1",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "HAND",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Throne Room Zone 1",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
