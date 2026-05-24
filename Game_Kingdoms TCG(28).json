@@ -119,36 +119,22 @@
               "style": false,
               "content": [
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "direction": "row",
-                      "style": false,
-                      "content": [
-                        {
-                          "section": "Throne1",
-                          "style": {
-                            "width": "11vh"
-                          }
-                        },
-                        {
-                          "section": "Throne2",
-                          "style": {
-                            "width": "11vh"
-                          }
-                        },
-                        {
-                          "section": "Bastion",
-                          "style": {
-                            "width": "15vh"
-                          }
-                        }
-                      ],
-                      "isSymetricalForOpponents": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "section": "Throne1",
+                  "style": {
+                    "width": "11vh"
+                  }
+                },
+                {
+                  "section": "Throne2",
+                  "style": {
+                    "width": "11vh"
+                  }
+                },
+                {
+                  "section": "Bastion",
+                  "style": {
+                    "width": "15vh"
+                  }
                 },
                 {
                   "section": "Kingdom",
@@ -172,7 +158,7 @@
                     {
                       "section": "MythicTerra",
                       "style": {
-                        "width": "20vh"
+                        "width": "15vh"
                       }
                     }
                   ],
