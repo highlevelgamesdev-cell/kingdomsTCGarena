@@ -204,7 +204,6 @@
           "Terra"
         ],
         "autoPlayFromHand": {
-          "TerraDeck": "Hand",
           "Terra": "Mana",
           "Unit": "Kingdom",
           "Relic": "Kingdom2",
@@ -230,22 +229,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Throne1": {
-            "title": "Throne1",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "DECK",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Throne Room Zone 1",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Front_Line": {
             "title": "Front_Line",
             "isHidden": "no",
@@ -259,6 +242,22 @@
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Throne1": {
+            "title": "Throne1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Throne Room Zone 1",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
