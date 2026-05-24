@@ -390,7 +390,7 @@
           "Bastion": {
             "title": "Bastion",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
