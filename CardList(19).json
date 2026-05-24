@@ -1,6 +1,6 @@
 {
-  "KGM 15/116": {
-    "id": "KGM 15/116",
+  "KGM 015/116": {
+    "id": "KGM 015/116",
     "isToken": false,
     "face": {
       "front": {
@@ -30,8 +30,8 @@
     "Relic": false,
     "Supply": false
   },
-  "KGM 17/116": {
-    "id": "KGM 17/116",
+  "KGM 017/116": {
+    "id": "KGM 017/116",
     "isToken": false,
     "face": {
       "front": {
@@ -74,9 +74,9 @@
       }
     },
     "name": "R O T",
-    "type": false,
+    "type": "Mythic-Unit",
     "cost": "0",
-    "Mythic": false,
+    "Mythic": true,
     "Non-unit": false,
     "Yellow": false,
     "Swift": false,
@@ -541,14 +541,14 @@
     "face": {
       "front": {
         "name": "Aires, Lord of Battle",
-        "type": "Unit",
+        "type": "Lord",
         "cost": "3",
         "image": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/aires%20lord%20of%20battle.jpg",
         "isHorizontal": false
       }
     },
     "name": "Aires Lord of Battle",
-    "type": "Unit",
+    "type": "Lord",
     "cost": "3",
     "Mythic": true,
     "Lord": true,
@@ -561,14 +561,14 @@
     "face": {
       "front": {
         "name": "Stack Lhumbar",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "3",
         "image": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/Binder1_Page_019.jpg",
         "isHorizontal": false
       }
     },
     "name": "Stack Lhumbar",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "3",
     "Mythic": true,
     "Unit": true,
@@ -580,14 +580,14 @@
     "face": {
       "front": {
         "name": "Lillia, Saint of Vitality",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/Binder1_Page_014.jpg",
         "isHorizontal": false
       }
     },
     "name": "Lillia, Saint of Vitality",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "2",
     "Mythic": true,
     "Yellow": true,
@@ -599,14 +599,14 @@
     "face": {
       "front": {
         "name": "Valtruess, Peircing Eye of the Storm",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "5",
         "image": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/Binder1_Page_022.jpg",
         "isHorizontal": false
       }
     },
     "name": "Valtruess, Peircing Eye of the Storm",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "5",
     "Mythic": true,
     "Unit": true,
@@ -618,14 +618,14 @@
     "face": {
       "front": {
         "name": "Dauz, Aceus Forgemaster",
-        "type": "Unit",
+        "type": "Lord",
         "cost": "3",
         "image": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/Binder1_Page_007.jpg",
         "isHorizontal": false
       }
     },
     "name": "Dauz, Aceus Forgemaster",
-    "type": "Unit",
+    "type": "Lord",
     "cost": "3",
     "Mythic": true,
     "Lord": true,
@@ -638,14 +638,14 @@
     "face": {
       "front": {
         "name": "Drez, the Druid Warrior",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/highlevelgamesdev-cell/kingdomsTCGarena/refs/heads/main/drez%2C%20druid%20summoner.jpg",
         "isHorizontal": false
       }
     },
     "name": "Drez, the Druid Warrior",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "2",
     "Mythic": true,
     "Yellow": true,
@@ -657,14 +657,14 @@
     "face": {
       "front": {
         "name": "Heath the Prideful",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "4",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_013.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Heath, the Prideful",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "2",
     "Mythic": true,
     "Yellow": true,
@@ -676,14 +676,14 @@
     "face": {
       "front": {
         "name": "Zjar, Master Pyromancer",
-        "type": "Unit",
+        "type": "Lord",
         "cost": "3",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_104.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Zjar, Master Pyromancer",
-    "type": "Unit",
+    "type": "Lord",
     "cost": "3",
     "Mythic": true,
     "Lord": true,
@@ -696,14 +696,14 @@
     "face": {
       "front": {
         "name": "Wisp & Willow, the Raging Flame",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "2",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_110.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Wisp & Willow, the Raging Flame",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "2",
     "Mythic": true,
     "Blue": true,
@@ -715,14 +715,14 @@
     "face": {
       "front": {
         "name": "Wisp & Willow, the Twin Flame",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "2",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_111.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Wisp & Willow, the Twin Flame",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "2",
     "Mythic": true,
     "Red": false,
@@ -735,14 +735,14 @@
     "face": {
       "front": {
         "name": "Lord Xavi, Master of the Council",
-        "type": "Unit",
+        "type": "Lord",
         "cost": "2",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_097.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Lord Xavi, Master of the Council",
-    "type": "Unit",
+    "type": "Lord",
     "cost": "2",
     "Mythic": true,
     "Lord": true,
@@ -755,14 +755,14 @@
     "face": {
       "front": {
         "name": "Argon, the Telekinetic",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "3",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_087.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Argon, the Telekinetic",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "3",
     "Mythic": true,
     "Blue": true,
@@ -774,14 +774,14 @@
     "face": {
       "front": {
         "name": "Helga the Bog Witch",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "2",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_095.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Helga the Bog Witch",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "2",
     "Mythic": true,
     "Blue": true,
@@ -793,14 +793,14 @@
     "face": {
       "front": {
         "name": "Avren the Spell-Sword",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "2",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_088.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Avren the Spell-Sword",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "2",
     "Mythic": true,
     "Blue": true,
@@ -812,14 +812,14 @@
     "face": {
       "front": {
         "name": "Red Riding Rogue",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "3",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_041.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Red Riding Rogue",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "3",
     "Mythic": true,
     "Unit": true,
@@ -832,14 +832,14 @@
     "face": {
       "front": {
         "name": "Kh'lip, the \"Golbin\" King",
-        "type": "Unit",
+        "type": "Lord",
         "cost": "3",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_031.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Kh'lip, the \"Golbin\" King",
-    "type": "Unit",
+    "type": "Lord",
     "cost": "3",
     "Mythic": true,
     "Red": true,
@@ -852,14 +852,14 @@
     "face": {
       "front": {
         "name": "The King of Thieves",
-        "type": "Unit",
+        "type": "Lord",
         "cost": "3",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_035.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "The King of Thieves",
-    "type": "Unit",
+    "type": "Lord",
     "cost": "3",
     "Mythic": true,
     "Red": true,
@@ -872,14 +872,14 @@
     "face": {
       "front": {
         "name": "Jack Wolf-Man the Tame",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "4",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1.pdf_Page_5_Image_0001.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Jack Wolf-Man the Tame",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "4",
     "Mythic": true,
     "Red": true,
@@ -1142,14 +1142,14 @@
     "face": {
       "front": {
         "name": "The Sword of Boundless Energy",
-        "type": "Supply",
+        "type": "Supply-Continuous",
         "cost": "3",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_020.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "The Sword of Boundless Energy",
-    "type": "Supply",
+    "type": "Supply-Continuous",
     "cost": "3",
     "Mythic": true,
     "Swift": false,
@@ -1195,14 +1195,14 @@
     "face": {
       "front": {
         "name": "Ashen the Red Cowl",
-        "type": "Unit",
+        "type": "Mythic-Unit",
         "cost": "3",
         "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_024.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Ashen the Red Cowl",
-    "type": "Unit",
+    "type": "Mythic-Unit",
     "cost": "3",
     "Mythic": true,
     "Non-unit": false,
@@ -1264,8 +1264,8 @@
     "Blue": false,
     "Red": true
   },
-  "069": {
-    "id": "069",
+  "KGM 069/116": {
+    "id": "KGM 069/116",
     "isToken": false,
     "face": {
       "front": {
@@ -1295,8 +1295,8 @@
     "Relic": false,
     "Supply": false
   },
-  "056": {
-    "id": "056",
+  "KGM 056/116": {
+    "id": "KGM 056/116",
     "isToken": false,
     "face": {
       "front": {
@@ -1326,8 +1326,8 @@
     "Relic": false,
     "Supply": true
   },
-  "050": {
-    "id": "050",
+  "KGM 050/116": {
+    "id": "KGM 050/116",
     "isToken": false,
     "face": {
       "front": {
