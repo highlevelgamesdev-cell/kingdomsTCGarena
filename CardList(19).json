@@ -82,9 +82,9 @@
     "Swift": false,
     "Continuous": false,
     "Lord": false,
-    "Unit": false,
+    "Unit": true,
     "Blue": false,
-    "Red": false,
+    "Red": true,
     "Terra": false,
     "Bastion": false,
     "Fort": false,
@@ -452,11 +452,11 @@
     "Non-unit": true,
     "Yellow": false,
     "Swift": false,
-    "Continuous": true,
+    "Continuous": false,
     "Lord": false,
     "Unit": false,
     "Blue": false,
-    "Red": false,
+    "Red": true,
     "Terra": true,
     "Bastion": true,
     "Fort": true,
@@ -512,7 +512,10 @@
     "cost": 0,
     "Mythic": false,
     "Non-unit": true,
-    "Yellow": true
+    "Yellow": true,
+    "Bastion": true,
+    "Terra": false,
+    "Fort": true
   },
   "KGM 115/116": {
     "id": "KGM 115/116",
@@ -533,7 +536,9 @@
     "Swift": false,
     "Continuous": false,
     "Non-unit": true,
-    "Yellow": true
+    "Yellow": true,
+    "Fort": true,
+    "Bastion": true
   },
   "KGM 002/116": {
     "id": "KGM 002/116",
@@ -902,7 +907,8 @@
     "cost": "1",
     "Mythic": true,
     "Yellow": true,
-    "Non-unit": true
+    "Non-unit": true,
+    "Relic": true
   },
   "KGM 043/116": {
     "id": "KGM 043/116",
@@ -922,7 +928,9 @@
     "Mythic": false,
     "Swift": true,
     "Yellow": true,
-    "Non-unit": true
+    "Non-unit": true,
+    "Continuous": true,
+    "Scroll": true
   },
   "KGM 052/116": {
     "id": "KGM 052/116",
@@ -941,7 +949,8 @@
     "cost": "2",
     "Mythic": false,
     "Yellow": true,
-    "Non-unit": true
+    "Non-unit": true,
+    "Supply": true
   },
   "KGM 044/116": {
     "id": "KGM 044/116",
@@ -996,7 +1005,9 @@
     "name": "Dwarfed Dwarf",
     "type": "Unit",
     "cost": "1",
-    "Mythic": false
+    "Mythic": false,
+    "Yellow": true,
+    "Unit": true
   },
   "KGM 046/116": {
     "id": "KGM 046/116",
@@ -1074,7 +1085,8 @@
     "Mythic": false,
     "Swift": true,
     "Yellow": true,
-    "Non-unit": true
+    "Non-unit": true,
+    "Scroll": true
   },
   "KGM 053/116": {
     "id": "KGM 053/116",
@@ -1134,7 +1146,8 @@
     "Mythic": false,
     "Swift": true,
     "Non-unit": true,
-    "Yellow": true
+    "Yellow": true,
+    "Scroll": true
   },
   "KGM 008/116": {
     "id": "KGM 008/116",
@@ -1155,7 +1168,8 @@
     "Swift": false,
     "Continuous": true,
     "Non-unit": true,
-    "Yellow": true
+    "Yellow": true,
+    "Supply": true
   },
   "KGM 106/116": {
     "id": "KGM 106/116",
@@ -1187,7 +1201,8 @@
     "Lord": false,
     "Unit": false,
     "Blue": false,
-    "Red": false
+    "Red": false,
+    "Terra": true
   },
   "KGM 010/116": {
     "id": "KGM 010/116",
@@ -1210,7 +1225,7 @@
     "Swift": false,
     "Continuous": false,
     "Lord": false,
-    "Unit": false,
+    "Unit": true,
     "Blue": false,
     "Red": true
   },
@@ -1230,14 +1245,15 @@
     "type": "Scroll",
     "cost": "3",
     "Mythic": false,
-    "Non-unit": false,
+    "Non-unit": true,
     "Yellow": false,
     "Swift": true,
     "Continuous": false,
     "Lord": false,
     "Unit": false,
     "Blue": false,
-    "Red": true
+    "Red": true,
+    "Scroll": true
   },
   "KGM 058/116": {
     "id": "KGM 058/116",
@@ -1262,7 +1278,8 @@
     "Lord": false,
     "Unit": false,
     "Blue": false,
-    "Red": true
+    "Red": true,
+    "Scroll": true
   },
   "KGM 069/116": {
     "id": "KGM 069/116",
