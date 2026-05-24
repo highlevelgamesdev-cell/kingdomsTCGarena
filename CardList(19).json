@@ -395,7 +395,7 @@
     "Unit": false,
     "Blue": false,
     "Red": true,
-    "Terra": true,
+    "Terra": false,
     "Bastion": true,
     "Fort": true,
     "Scroll": false,
@@ -1340,6 +1340,68 @@
     "Bastion": false,
     "Fort": false,
     "Scroll": true,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 064/116": {
+    "id": "KGM 064/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lotus Toad",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1.pdf_Page_6_Image_0001.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lotus Toad",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 062/116": {
+    "id": "KGM 062/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goblin Commando",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_030.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goblin Commando",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": true,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
     "Relic": false,
     "Supply": false
   }
