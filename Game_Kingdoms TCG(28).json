@@ -162,30 +162,29 @@
               "style": false,
               "content": [
                 {
-                  "section": "Mana",
-                  "style": false
-                },
-                {
                   "direction": "row",
                   "style": false,
                   "content": [
                     {
-                      "direction": "row",
-                      "style": false,
-                      "content": [
-                        {
-                          "section": "MythicTerra",
-                          "style": false
-                        },
-                        {
-                          "section": "Kingdom2",
-                          "style": false
-                        }
-                      ],
-                      "isSymetricalForOpponents": false
+                      "section": "Mana",
+                      "style": false
+                    },
+                    {
+                      "section": "MythicTerra",
+                      "style": {
+                        "Width": 30
+                      }
                     }
                   ],
                   "isSymetricalForOpponents": false
+                },
+                {
+                  "section": "Kingdom2",
+                  "style": false
+                },
+                {
+                  "section": "Terra",
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
