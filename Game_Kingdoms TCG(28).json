@@ -168,13 +168,13 @@
                     {
                       "section": "Mana",
                       "style": {
-                        "Width": 75
+                        "Width": 50
                       }
                     },
                     {
                       "section": "MythicTerra",
                       "style": {
-                        "Width": 25
+                        "Width": 10
                       }
                     }
                   ],
@@ -183,7 +183,7 @@
                 {
                   "section": "Kingdom2",
                   "style": {
-                    "Width": 60
+                    "Width": 50
                   }
                 },
                 {
