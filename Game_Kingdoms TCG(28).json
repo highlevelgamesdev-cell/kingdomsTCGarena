@@ -152,7 +152,9 @@
                 },
                 {
                   "section": "Kingdom",
-                  "style": false
+                  "style": {
+                    "Width": 80
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -162,23 +164,16 @@
               "style": false,
               "content": [
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Mana",
-                      "style": {
-                        "Width": 50
-                      }
-                    },
-                    {
-                      "section": "MythicTerra",
-                      "style": {
-                        "Width": 10
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "section": "Mana",
+                  "style": {
+                    "Width": 50
+                  }
+                },
+                {
+                  "section": "MythicTerra",
+                  "style": {
+                    "Width": 10
+                  }
                 },
                 {
                   "section": "Kingdom2",
