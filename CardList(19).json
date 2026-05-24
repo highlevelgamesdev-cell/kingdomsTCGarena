@@ -1373,5 +1373,36 @@
     "Scroll": true,
     "Relic": false,
     "Supply": false
+  },
+  "KGM 059/116": {
+    "id": "KGM 059/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Backup Bomb",
+        "type": "Scroll",
+        "cost": "1",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/backup%20bomb%20copy.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Backup Bomb",
+    "type": "Scroll",
+    "cost": 1,
+    "Mythic": false,
+    "Non-unit": true,
+    "Yellow": false,
+    "Swift": true,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": true,
+    "Relic": false,
+    "Supply": false
   }
 }
