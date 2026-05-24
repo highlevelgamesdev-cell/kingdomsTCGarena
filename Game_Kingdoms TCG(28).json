@@ -171,18 +171,27 @@
                     },
                     {
                       "section": "MythicTerra",
-                      "style": false
-                    },
-                    {
-                      "section": "Kingdom2",
-                      "style": false
+                      "style": {
+                        "width": "15vh"
+                      }
                     }
                   ],
                   "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "Terra",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Kingdom2",
+                      "style": false
+                    },
+                    {
+                      "section": "Terra",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
