@@ -141,7 +141,6 @@
                         {
                           "section": "Bastion",
                           "style": {
-                            "height": "11vh",
                             "width": "15vh"
                           }
                         }
