@@ -171,9 +171,7 @@
                     },
                     {
                       "section": "MythicTerra",
-                      "style": {
-                        "Width": 18
-                      }
+                      "style": false
                     }
                   ],
                   "isSymetricalForOpponents": false
