@@ -1,4 +1,500 @@
 {
+  "KGM 15/116": {
+    "id": "KGM 15/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "L'hint, Goblin-Mutationmancer",
+        "type": "Mythic-Unit",
+        "cost": "3",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_033.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "L'hint, Goblin-Mutationmancer",
+    "type": "Mythic-Unit",
+    "cost": "3",
+    "Mythic": true,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 17/116": {
+    "id": "KGM 17/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rogue Thief",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_043.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rogue Thief",
+    "type": "Unit",
+    "cost": "4",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 18/116": {
+    "id": "KGM 18/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "R O T",
+        "type": "Mythic-Unit",
+        "cost": "5",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_044.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "R O T",
+    "type": false,
+    "cost": "0",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": false,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 57/116": {
+    "id": "KGM 57/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ambush Archer",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1.pdf_Page_2_Image_0001.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ambush Archer",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": true,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 60/116": {
+    "id": "KGM 60/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frogue",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_028.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frogue",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 61/116": {
+    "id": "KGM 61/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goblinoid",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_032.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goblinoid",
+    "type": "Unit",
+    "cost": "1",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 62/116": {
+    "id": "KGM 62/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goblin Commando",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_030.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goblin Commando",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": true,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 63/116": {
+    "id": "KGM 63/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Little Thief",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_036.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Little Thief",
+    "type": "Unit",
+    "cost": "1",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 64/116": {
+    "id": "KGM 64/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lotus Toad",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1.pdf_Page_6_Image_0001.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lotus Toad",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 65/116": {
+    "id": "KGM 65/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Plague Rogue",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_038.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Plague Rogue",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 66/116": {
+    "id": "KGM 66/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pocket L'hint",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_039.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pocket L'hint",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": true,
+    "Supply": false
+  },
+  "KGM 67/116": {
+    "id": "KGM 67/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poisoned Dagger",
+        "type": "Supply",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_040.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poison Dagger",
+    "type": "Supply",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": true,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": true
+  },
+  "KGM 68/116": {
+    "id": "KGM 68/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Cloak",
+        "type": "Supply",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_042.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Cloak",
+    "type": "Supply",
+    "cost": "1",
+    "Mythic": false,
+    "Non-unit": true,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": true
+  },
+  "KGM 70/116": {
+    "id": "KGM 70/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadow Striker",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_046.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadow Striker",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 111/116": {
+    "id": "KGM 111/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goblin Boneyard",
+        "type": "Fort",
+        "cost": 0,
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_029.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Goblin Boneyard",
+    "type": "Fort",
+    "cost": 0,
+    "Mythic": false,
+    "Non-unit": true,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": true,
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": false,
+    "Terra": true,
+    "Bastion": true,
+    "Fort": true,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "KGM 114/116": {
+    "id": "KGM 114/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Thieves Den - Rebellion Main HQ",
+        "type": "Bastion",
+        "cost": 0,
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_047.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "The Thieves Den - Rebellion Main HQ",
+    "type": "Bastion",
+    "cost": 0,
+    "Mythic": false,
+    "Non-unit": true,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": true,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
   "KGM 109/116": {
     "id": "KGM 109/116",
     "isToken": false,
@@ -169,7 +665,7 @@
     },
     "name": "Heath, the Prideful",
     "type": "Unit",
-    "cost": "4",
+    "cost": "2",
     "Mythic": true,
     "Yellow": true,
     "Unit": true
@@ -692,5 +1188,173 @@
     "Unit": false,
     "Blue": false,
     "Red": false
+  },
+  "KGM 010/116": {
+    "id": "KGM 010/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ashen the Red Cowl",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_024.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ashen the Red Cowl",
+    "type": "Unit",
+    "cost": "3",
+    "Mythic": true,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": true
+  },
+  "KGM 011/116": {
+    "id": "KGM 011/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Assassinate",
+        "type": "Scroll",
+        "cost": "3",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_025.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Assassinate",
+    "type": "Scroll",
+    "cost": "3",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": true,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": true
+  },
+  "KGM 058/116": {
+    "id": "KGM 058/116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Back-Stab",
+        "type": "Scroll",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_026.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Back-Stab",
+    "type": "Scroll",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": true,
+    "Yellow": false,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": true
+  },
+  "069": {
+    "id": "069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rogue Toad",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/Binder1_Page_045.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rogue Toad",
+    "type": "Unit",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": false,
+    "Yellow": false,
+    "Swift": true,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": true,
+    "Blue": false,
+    "Red": true,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": false
+  },
+  "056": {
+    "id": "056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Two Ton Tonic",
+        "type": "Supply",
+        "cost": "2",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/two%20ton%20tonic.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Two Ton Tonic",
+    "type": "Supply",
+    "cost": "2",
+    "Mythic": false,
+    "Non-unit": true,
+    "Yellow": true,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": false,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": false,
+    "Relic": false,
+    "Supply": true
+  },
+  "050": {
+    "id": "050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Overtired",
+        "type": "Scroll",
+        "cost": "1",
+        "image": "https://github.com/highlevelgamesdev-cell/kingdomsTCGarena/blob/main/overtired.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Overtired",
+    "type": "Scroll",
+    "cost": "1",
+    "Mythic": false,
+    "Non-unit": true,
+    "Yellow": true,
+    "Swift": false,
+    "Continuous": false,
+    "Lord": false,
+    "Unit": false,
+    "Blue": false,
+    "Red": false,
+    "Terra": false,
+    "Bastion": false,
+    "Fort": false,
+    "Scroll": true,
+    "Relic": false,
+    "Supply": false
   }
 }
