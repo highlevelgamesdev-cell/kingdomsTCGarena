@@ -167,7 +167,7 @@
                   "content": [
                     {
                       "section": "Mana",
-                      "style": false
+                      "style": {"width":"60vh"}
                     },
                     {
                       "section": "MythicTerra",
