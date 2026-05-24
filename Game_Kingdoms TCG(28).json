@@ -179,6 +179,10 @@
                 {
                   "section": "Kingdom2",
                   "style": false
+                },
+                {
+                  "section": "Terra",
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
