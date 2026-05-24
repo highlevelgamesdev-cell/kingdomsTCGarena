@@ -167,18 +167,18 @@
                   "content": [
                     {
                       "section": "Mana",
-                      "style": {"width":"60vh"}
+                      "style": false
                     },
                     {
                       "section": "MythicTerra",
                       "style": false
+                    },
+                    {
+                      "section": "Kingdom2",
+                      "style": false
                     }
                   ],
                   "isSymetricalForOpponents": false
-                },
-                {
-                  "section": "Kingdom2",
-                  "style": false
                 },
                 {
                   "section": "Terra",
