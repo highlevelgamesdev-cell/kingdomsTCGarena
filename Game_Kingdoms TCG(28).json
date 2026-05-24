@@ -180,10 +180,6 @@
                         {
                           "section": "Kingdom2",
                           "style": false
-                        },
-                        {
-                          "section": "Terra",
-                          "style": false
                         }
                       ],
                       "isSymetricalForOpponents": false
@@ -334,8 +330,9 @@
             "showHiddenCardInHistory": false
           },
           "Terra": {
-            "title": "Terra",
+            "isDefaultSection": true,
             "isHidden": "yes",
+            "title": "Terra",
             "height": "SMALL",
             "alignment": "DECK",
             "opponentAlignment": false,
