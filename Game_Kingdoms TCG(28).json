@@ -197,6 +197,7 @@
         "autoPlayFromStack": {
           "Scroll": "Discard",
           "Unit": "Kingdom",
+          "Lord": "Kingdom",
           "Mythic-Unit": "Kingdom",
           "Relic": "Kingdom2",
           "Supply-Continuous": "Kingdom2"
