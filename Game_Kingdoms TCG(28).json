@@ -191,13 +191,16 @@
           "Terra"
         ],
         "autoPlayFromHand": {
-          "Terra": "Mana",
-          "Unit": "Kingdom",
-          "Relic": "Kingdom2",
-          "Supply": "Kingdom2"
+          "Terra": "Mana"
+
         },
         "autoPlayFromStack": {
-          "Scroll": "Discard"
+          "Scroll": "Discard",
+          "Unit": "Kingdom",
+          "Mythic-Unit": "Kingdom",
+          "Relic": "Kingdom2",
+          "Supply": "Kingdom2",
+          "Supply-Continuous": "Kingdom2"
         },
         "sectionsDict": {
           "Hand": {
@@ -357,7 +360,7 @@
             "title": "Throne1",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "autoPayFrom": true,
             "noAutoPayTo": true,
@@ -374,7 +377,7 @@
             "title": "Throne2",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "autoPayFrom": true,
             "noAutoPayTo": true,
