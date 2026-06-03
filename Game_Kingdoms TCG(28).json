@@ -192,7 +192,6 @@
         ],
         "autoPlayFromHand": {
           "Terra": "Mana",
-          "Scroll": "Discard",
           "Unit": "Kingdom",
           "Lord": "Kingdom",
           "Mythic-Unit": "Kingdom",
